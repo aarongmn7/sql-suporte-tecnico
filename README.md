@@ -16,6 +16,6 @@ Simular um cenário real de suporte técnico, com usuários, chamados e históri
 - Histórico de atendimentos
 
 ## Tecnologias
-- SQL (MySQL)
+- SQL (MySQL – consultas básicas e modelagem)
 
 Projeto com foco em aprendizado e fundamentos de banco de dados aplicados à área de suporte técnico.
